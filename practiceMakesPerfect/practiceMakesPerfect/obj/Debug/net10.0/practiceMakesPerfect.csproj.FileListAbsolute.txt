@@ -1,0 +1,14 @@
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\bin\Debug\net10.0\practiceMakesPerfect.exe
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\bin\Debug\net10.0\practiceMakesPerfect.deps.json
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\bin\Debug\net10.0\practiceMakesPerfect.runtimeconfig.json
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\bin\Debug\net10.0\practiceMakesPerfect.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\bin\Debug\net10.0\practiceMakesPerfect.pdb
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\obj\Debug\net10.0\practiceMakesPerfect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\obj\Debug\net10.0\practiceMakesPerfect.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\obj\Debug\net10.0\practiceMakesPerfect.AssemblyInfo.cs
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\obj\Debug\net10.0\practiceMakesPerfect.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\obj\Debug\net10.0\practiceMakesPerfect.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\obj\Debug\net10.0\refint\practiceMakesPerfect.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\obj\Debug\net10.0\practiceMakesPerfect.pdb
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\obj\Debug\net10.0\practiceMakesPerfect.genruntimeconfig.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceMakesPerfect\practiceMakesPerfect\obj\Debug\net10.0\ref\practiceMakesPerfect.dll
