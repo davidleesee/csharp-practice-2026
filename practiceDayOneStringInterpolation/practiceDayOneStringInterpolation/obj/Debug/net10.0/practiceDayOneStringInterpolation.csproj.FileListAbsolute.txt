@@ -1,0 +1,15 @@
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\bin\Debug\net10.0\practiceDayOneStringInterpolation.exe
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\bin\Debug\net10.0\practiceDayOneStringInterpolation.deps.json
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\bin\Debug\net10.0\practiceDayOneStringInterpolation.runtimeconfig.json
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\bin\Debug\net10.0\practiceDayOneStringInterpolation.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\bin\Debug\net10.0\practiceDayOneStringInterpolation.pdb
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\obj\Debug\net10.0\practiceDayOneStringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\obj\Debug\net10.0\practiceDayOneStringInterpolation.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\obj\Debug\net10.0\practiceDayOneStringInterpolation.AssemblyInfo.cs
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\obj\Debug\net10.0\practiceDayOneStringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\obj\Debug\net10.0\practiceDayOneStringInterpolation.sourcelink.json
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\obj\Debug\net10.0\practiceDayOneStringInterpolation.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\obj\Debug\net10.0\refint\practiceDayOneStringInterpolation.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\obj\Debug\net10.0\practiceDayOneStringInterpolation.pdb
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\obj\Debug\net10.0\practiceDayOneStringInterpolation.genruntimeconfig.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneStringInterpolation\practiceDayOneStringInterpolation\obj\Debug\net10.0\ref\practiceDayOneStringInterpolation.dll
