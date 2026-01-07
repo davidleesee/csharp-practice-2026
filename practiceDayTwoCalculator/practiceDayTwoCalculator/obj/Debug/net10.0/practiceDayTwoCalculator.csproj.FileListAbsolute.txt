@@ -1,0 +1,15 @@
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\bin\Debug\net10.0\practiceDayTwoCalculator.exe
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\bin\Debug\net10.0\practiceDayTwoCalculator.deps.json
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\bin\Debug\net10.0\practiceDayTwoCalculator.runtimeconfig.json
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\bin\Debug\net10.0\practiceDayTwoCalculator.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\bin\Debug\net10.0\practiceDayTwoCalculator.pdb
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\obj\Debug\net10.0\practiceDayTwoCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\obj\Debug\net10.0\practiceDayTwoCalculator.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\obj\Debug\net10.0\practiceDayTwoCalculator.AssemblyInfo.cs
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\obj\Debug\net10.0\practiceDayTwoCalculator.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\obj\Debug\net10.0\practiceDayTwoCalculator.sourcelink.json
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\obj\Debug\net10.0\practiceDayTwoCalculator.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\obj\Debug\net10.0\refint\practiceDayTwoCalculator.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\obj\Debug\net10.0\practiceDayTwoCalculator.pdb
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\obj\Debug\net10.0\practiceDayTwoCalculator.genruntimeconfig.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayTwoCalculator\practiceDayTwoCalculator\obj\Debug\net10.0\ref\practiceDayTwoCalculator.dll
