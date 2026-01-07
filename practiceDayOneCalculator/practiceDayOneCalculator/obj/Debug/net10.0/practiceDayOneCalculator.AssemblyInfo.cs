@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practiceDayOneCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee445fedd923747e6116d07685e44416117ee237")]
 [assembly: System.Reflection.AssemblyProductAttribute("practiceDayOneCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practiceDayOneCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

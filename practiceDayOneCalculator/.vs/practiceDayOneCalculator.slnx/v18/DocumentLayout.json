@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\david\\Desktop\\Coding Projects\\csharp-practice-2026\\practiceDayOneCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED623D62-D74B-456C-875E-4F98E991430D}|practiceDayOneCalculator\\practiceDayOneCalculator.csproj|c:\\users\\david\\desktop\\coding projects\\csharp-practice-2026\\practicedayonecalculator\\practicedayonecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED623D62-D74B-456C-875E-4F98E991430D}|practiceDayOneCalculator\\practiceDayOneCalculator.csproj|solutionrelative:practicedayonecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FF8821D-6FB4-011D-20A7-566EAAF58400}|practiceDayOneCalculator\\practiceDayOneCalculator.csproj|c:\\users\\david\\desktop\\coding projects\\csharp-practice-2026\\practicedayonecalculator\\practicedayonecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF8821D-6FB4-011D-20A7-566EAAF58400}|practiceDayOneCalculator\\practiceDayOneCalculator.csproj|solutionrelative:practicedayonecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "practiceDayOneCalculator\\Program.cs",
               "ToolTip": "C:\\Users\\david\\Desktop\\Coding Projects\\csharp-practice-2026\\practiceDayOneCalculator\\practiceDayOneCalculator\\Program.cs",
               "RelativeToolTip": "practiceDayOneCalculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T20:21:01.044Z",
               "EditorCaption": ""

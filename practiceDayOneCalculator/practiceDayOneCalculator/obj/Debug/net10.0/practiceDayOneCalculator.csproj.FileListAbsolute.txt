@@ -12,3 +12,4 @@ C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneCalcul
 C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneCalculator\practiceDayOneCalculator\obj\Debug\net10.0\practiceDayOneCalculator.pdb
 C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneCalculator\practiceDayOneCalculator\obj\Debug\net10.0\practiceDayOneCalculator.genruntimeconfig.cache
 C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneCalculator\practiceDayOneCalculator\obj\Debug\net10.0\ref\practiceDayOneCalculator.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayOneCalculator\practiceDayOneCalculator\obj\Debug\net10.0\practiceDayOneCalculator.sourcelink.json
