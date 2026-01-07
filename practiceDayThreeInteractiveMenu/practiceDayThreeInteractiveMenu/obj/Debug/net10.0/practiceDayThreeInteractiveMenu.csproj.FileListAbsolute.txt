@@ -1,0 +1,15 @@
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\bin\Debug\net10.0\practiceDayThreeInteractiveMenu.exe
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\bin\Debug\net10.0\practiceDayThreeInteractiveMenu.deps.json
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\bin\Debug\net10.0\practiceDayThreeInteractiveMenu.runtimeconfig.json
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\bin\Debug\net10.0\practiceDayThreeInteractiveMenu.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\bin\Debug\net10.0\practiceDayThreeInteractiveMenu.pdb
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\obj\Debug\net10.0\practiceDayThreeInteractiveMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\obj\Debug\net10.0\practiceDayThreeInteractiveMenu.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\obj\Debug\net10.0\practiceDayThreeInteractiveMenu.AssemblyInfo.cs
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\obj\Debug\net10.0\practiceDayThreeInteractiveMenu.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\obj\Debug\net10.0\practiceDayThreeInteractiveMenu.sourcelink.json
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\obj\Debug\net10.0\practiceDayThreeInteractiveMenu.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\obj\Debug\net10.0\refint\practiceDayThreeInteractiveMenu.dll
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\obj\Debug\net10.0\practiceDayThreeInteractiveMenu.pdb
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\obj\Debug\net10.0\practiceDayThreeInteractiveMenu.genruntimeconfig.cache
+C:\Users\david\Desktop\Coding Projects\csharp-practice-2026\practiceDayThreeInteractiveMenu\practiceDayThreeInteractiveMenu\obj\Debug\net10.0\ref\practiceDayThreeInteractiveMenu.dll
